@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Ein grober Fahrplan</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/my-first-post/</link>
+      <pubDate>Sun, 27 Aug 2023 19:20:02 +0100</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/my-first-post/</guid>
+      <description>Du liebst es, Dingen auf den Grund zu gehen und zu verstehen, wie die Welt funktioniert? Dann bist du hier genau richtig. In meinem kleinen Kurs möchte ich dich hands-on von meiner Begeisterung für die Physik überzeugen und direkt in die Materie eintauchen :P. Vor allem soll dieser Kurs eine Einführung in das Selbststudium sein und dir die Werkzeuge geben, um eigenständig die Welt der Physik zu navigieren. Die vermutlich wichtigste Eigenschaft eines Physikers ist es, laufend und scharfsinnig Fragen zu stellen und das soll auch das Motto dieses Workshops sein.</description>
+    </item>
+    
+    <item>
       <title>Chapter VI: Esmeralda</title>
       <link>https://gohugo-theme-ananke.pages.dev/post/chapter-6/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
