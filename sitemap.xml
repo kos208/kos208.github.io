@@ -25,10 +25,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://gohugo-theme-ananke.pages.dev/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
